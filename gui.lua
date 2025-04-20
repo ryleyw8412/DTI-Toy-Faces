@@ -40,7 +40,7 @@ local Min = Instance.new("TextButton")
 
 DTIToyFaces.Name = "DTIToyFaces"
 DTIToyFaces.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
-DTIToyFaces.Enabled = false
+DTIToyFaces.Enabled = true
 DTIToyFaces.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 Main.Name = "Main"
