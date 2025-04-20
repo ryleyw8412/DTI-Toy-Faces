@@ -40,6 +40,7 @@ local Min = Instance.new("TextButton")
 
 DTIToyFaces.Name = "DTIToyFaces"
 DTIToyFaces.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+DTIToyFaces.Enabled = false
 DTIToyFaces.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 Main.Name = "Main"
@@ -295,15 +296,15 @@ Min.TextWrapped = true
 
 -- Scripts:
 
-local function SZFX_fake_script() -- Close.LocalScript 
+local function AEIN_fake_script() -- Close.CloseScript 
 	local script = Instance.new('LocalScript', Close)
 
 	script.Parent.Activated:Connect(function()
 		script.Parent.Parent.Parent:Destroy()
 	end)
 end
-coroutine.wrap(SZFX_fake_script)()
-local function JBUYG_fake_script() -- rbxassetid122952747211150.LocalScript 
+coroutine.wrap(AEIN_fake_script)()
+local function WBYQLGW_fake_script() -- rbxassetid122952747211150.LocalScript 
 	local script = Instance.new('LocalScript', rbxassetid122952747211150)
 
 	local button = script.Parent
@@ -319,8 +320,8 @@ local function JBUYG_fake_script() -- rbxassetid122952747211150.LocalScript
 		game:GetService("ReplicatedStorage"):FindFirstChild("Dress Up").RemoteEvent:FireServer(unpack(args))
 	end)
 end
-coroutine.wrap(JBUYG_fake_script)()
-local function QYPMP_fake_script() -- rbxassetid73545238640382.LocalScript 
+coroutine.wrap(WBYQLGW_fake_script)()
+local function GGVB_fake_script() -- rbxassetid73545238640382.LocalScript 
 	local script = Instance.new('LocalScript', rbxassetid73545238640382)
 
 	local button = script.Parent
@@ -336,8 +337,8 @@ local function QYPMP_fake_script() -- rbxassetid73545238640382.LocalScript
 		game:GetService("ReplicatedStorage"):FindFirstChild("Dress Up").RemoteEvent:FireServer(unpack(args))
 	end)
 end
-coroutine.wrap(QYPMP_fake_script)()
-local function QNCU_fake_script() -- rbxassetid99181215256054.LocalScript 
+coroutine.wrap(GGVB_fake_script)()
+local function LPQZCFA_fake_script() -- rbxassetid99181215256054.LocalScript 
 	local script = Instance.new('LocalScript', rbxassetid99181215256054)
 
 	local button = script.Parent
@@ -353,8 +354,8 @@ local function QNCU_fake_script() -- rbxassetid99181215256054.LocalScript
 		game:GetService("ReplicatedStorage"):FindFirstChild("Dress Up").RemoteEvent:FireServer(unpack(args))
 	end)
 end
-coroutine.wrap(QNCU_fake_script)()
-local function GXBC_fake_script() -- rbxassetid71815023804705.LocalScript 
+coroutine.wrap(LPQZCFA_fake_script)()
+local function WEVT_fake_script() -- rbxassetid71815023804705.LocalScript 
 	local script = Instance.new('LocalScript', rbxassetid71815023804705)
 
 	local button = script.Parent
@@ -370,8 +371,8 @@ local function GXBC_fake_script() -- rbxassetid71815023804705.LocalScript
 		game:GetService("ReplicatedStorage"):FindFirstChild("Dress Up").RemoteEvent:FireServer(unpack(args))
 	end)
 end
-coroutine.wrap(GXBC_fake_script)()
-local function WDBCK_fake_script() -- rbxassetid113007002901116.LocalScript 
+coroutine.wrap(WEVT_fake_script)()
+local function BXGU_fake_script() -- rbxassetid113007002901116.LocalScript 
 	local script = Instance.new('LocalScript', rbxassetid113007002901116)
 
 	local button = script.Parent
@@ -387,8 +388,8 @@ local function WDBCK_fake_script() -- rbxassetid113007002901116.LocalScript
 		game:GetService("ReplicatedStorage"):FindFirstChild("Dress Up").RemoteEvent:FireServer(unpack(args))
 	end)
 end
-coroutine.wrap(WDBCK_fake_script)()
-local function WYKUSVP_fake_script() -- rbxassetid77526329511990.LocalScript 
+coroutine.wrap(BXGU_fake_script)()
+local function JBGY_fake_script() -- rbxassetid77526329511990.LocalScript 
 	local script = Instance.new('LocalScript', rbxassetid77526329511990)
 
 	local button = script.Parent
@@ -404,8 +405,8 @@ local function WYKUSVP_fake_script() -- rbxassetid77526329511990.LocalScript
 		game:GetService("ReplicatedStorage"):FindFirstChild("Dress Up").RemoteEvent:FireServer(unpack(args))
 	end)
 end
-coroutine.wrap(WYKUSVP_fake_script)()
-local function AXWMC_fake_script() -- rbxassetid115648994007055.LocalScript 
+coroutine.wrap(JBGY_fake_script)()
+local function HGASDZP_fake_script() -- rbxassetid115648994007055.LocalScript 
 	local script = Instance.new('LocalScript', rbxassetid115648994007055)
 
 	local button = script.Parent
@@ -421,8 +422,8 @@ local function AXWMC_fake_script() -- rbxassetid115648994007055.LocalScript
 		game:GetService("ReplicatedStorage"):FindFirstChild("Dress Up").RemoteEvent:FireServer(unpack(args))
 	end)
 end
-coroutine.wrap(AXWMC_fake_script)()
-local function AGVIQ_fake_script() -- rbxassetid109773858929142.LocalScript 
+coroutine.wrap(HGASDZP_fake_script)()
+local function IVMP_fake_script() -- rbxassetid109773858929142.LocalScript 
 	local script = Instance.new('LocalScript', rbxassetid109773858929142)
 
 	local button = script.Parent
@@ -438,8 +439,8 @@ local function AGVIQ_fake_script() -- rbxassetid109773858929142.LocalScript
 		game:GetService("ReplicatedStorage"):FindFirstChild("Dress Up").RemoteEvent:FireServer(unpack(args))
 	end)
 end
-coroutine.wrap(AGVIQ_fake_script)()
-local function HPTN_fake_script() -- rbxassetid107912717449796.LocalScript 
+coroutine.wrap(IVMP_fake_script)()
+local function NDFSRUR_fake_script() -- rbxassetid107912717449796.LocalScript 
 	local script = Instance.new('LocalScript', rbxassetid107912717449796)
 
 	local button = script.Parent
@@ -455,8 +456,8 @@ local function HPTN_fake_script() -- rbxassetid107912717449796.LocalScript
 		game:GetService("ReplicatedStorage"):FindFirstChild("Dress Up").RemoteEvent:FireServer(unpack(args))
 	end)
 end
-coroutine.wrap(HPTN_fake_script)()
-local function PFZUYT_fake_script() -- rbxassetid76906913740713.LocalScript 
+coroutine.wrap(NDFSRUR_fake_script)()
+local function INWPV_fake_script() -- rbxassetid76906913740713.LocalScript 
 	local script = Instance.new('LocalScript', rbxassetid76906913740713)
 
 	local button = script.Parent
@@ -472,8 +473,8 @@ local function PFZUYT_fake_script() -- rbxassetid76906913740713.LocalScript
 		game:GetService("ReplicatedStorage"):FindFirstChild("Dress Up").RemoteEvent:FireServer(unpack(args))
 	end)
 end
-coroutine.wrap(PFZUYT_fake_script)()
-local function UXBRSXO_fake_script() -- Min.LocalScript 
+coroutine.wrap(INWPV_fake_script)()
+local function CFDCKM_fake_script() -- Min.MinMaxScript 
 	local script = Instance.new('LocalScript', Min)
 
 	script.Parent.Parent.Position = UDim2.new(0.316, 0, 0.325, 0)
@@ -484,19 +485,21 @@ local function UXBRSXO_fake_script() -- Min.LocalScript
 		if not min then
 			game:GetService("TweenService"):Create(script.Parent.Parent, TweenInfo.new(0.5, Enum.EasingStyle.Cubic, Enum.EasingDirection.InOut), {Position = UDim2.new(0.316, 0, 0.96, 0)}):Play()
 			min = true
+			script.Parent.Parent.Draggable = false
 			script.Parent.Text = "+"
 		else
 			game:GetService("TweenService"):Create(script.Parent.Parent, TweenInfo.new(0.5, Enum.EasingStyle.Cubic, Enum.EasingDirection.InOut), {Position = UDim2.new(0.316, 0, 0.325, 0)}):Play()
 			min = false
+			script.Parent.Parent.Draggable = true
 			script.Parent.Text = "-"
 		end
 	end)
 end
-coroutine.wrap(UXBRSXO_fake_script)()
-local function NTCNRAG_fake_script() -- Main.Draggable 
+coroutine.wrap(CFDCKM_fake_script)()
+local function RZXSI_fake_script() -- Main.MakeDraggable 
 	local script = Instance.new('LocalScript', Main)
 
 	script.Parent.Active = true
 	script.Parent.Draggable = true
 end
-coroutine.wrap(NTCNRAG_fake_script)()
+coroutine.wrap(RZXSI_fake_script)()
