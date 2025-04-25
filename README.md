@@ -17,7 +17,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ryleyw8412/DTI-Toy-Fa
 - *A WORKING Roblox execxutor.*
     For a list of *trusted* executors, visit https://voxlis.net/roblox/
 
-**Recommended executors (My opinion)**
+**Recommended executors (My opinion):**
+
  MacOS:
  - Hydrogen Executor, Free, In beta (https://discord.gg/cC39XzfWxw)
  - Macsploit Executor, Paid ```$10 USD``` (https://discord.gg/macsploit)
