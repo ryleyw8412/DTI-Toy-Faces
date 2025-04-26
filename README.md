@@ -9,7 +9,7 @@
 
 
 Main Loadstring Script:
-```
+``` lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ryleyw8412/DTI-Toy-Faces/refs/heads/main/gui.lua"))()
 ```
 
