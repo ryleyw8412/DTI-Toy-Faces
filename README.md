@@ -19,7 +19,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ryleyw8412/DTI-Toy-Fa
 
 ### Loadstring (OLD):
 ``` lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ryleyw8412/DTI-Toy-Faces/refs/heads/main/gui.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ryleyw8412/DTI-Toy-Faces/refs/heads/main/gui-old.lua"))()
 ```
 
 # Required to use this GUI:
