@@ -1,6 +1,4 @@
-# Welcome to the DTI Toy Codes GUI Repository!
-
-# If you're here, I either trust you enough to not gatekeep it from you, or you stumbled across it.
+# Welcome to the DTI Toy Codes GUI Repository, made by ryry!
 
 **Features:**
 - *All current dress to impress toy code faces in one scroller.*
