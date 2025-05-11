@@ -37,3 +37,5 @@ Windows:
 - Visual Executor, Free, key system (https://getvisual.cc)
 
 # I hope you enjoy! Feel free to leave feedback!
+
+-# psst, I have to update this everytime new faces come out, so be patient with updates!
