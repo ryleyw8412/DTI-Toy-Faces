@@ -12,8 +12,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ryleyw8412/DTI-toy-fa
 ```
 
 # V2 RELEASED!
-- V2 Has a better gui,
-- Different face organisation,
+- V2 Has a better GUI, even cuter and more minimalistic (basically it's less ugly),
+- Different UI organisation,
 - Tabs for "Main", "Update log", and "Faces"
 # Don't like V2? Go back;
 
