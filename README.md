@@ -17,6 +17,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ryleyw8412/DTI-toy-fa
 - V2 Has a better gui,
 - Different face organisation,
 - Tabs for "Main", "Update log", and "Faces"
+# Don't like V2? Go back;
 
 ### Loadstring (OLD):
 ``` lua
