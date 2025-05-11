@@ -38,4 +38,6 @@ Windows:
 
 # I hope you enjoy! Feel free to leave feedback!
 
--# psst, I have to update this everytime new faces come out, so be patient with updates!
+## FAQ:
+Q: "Why is it equipping the wrong faces?"
+A: I have to update this everytime new faces come out, so be patient with updates! Or, the devs have patched it :(
