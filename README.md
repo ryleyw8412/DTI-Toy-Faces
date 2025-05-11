@@ -8,7 +8,11 @@
 - *Cute and simple GUI*
 
 
-Main Loadstring Script:
+Main Loadstring Script (V2):
+``` lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ryleyw8412/DTI-toy-faces-V2/refs/heads/main/gui-v2.lua")()
+```
+Loadstring (OLD):
 ``` lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ryleyw8412/DTI-Toy-Faces/refs/heads/main/gui.lua"))()
 ```
