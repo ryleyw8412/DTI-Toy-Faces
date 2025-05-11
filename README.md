@@ -1,9 +1,9 @@
 # Welcome to the DTI Toy Codes GUI Repository, made by ryry!
 
 **Features:**
-- *All current dress to impress toy code faces in one scroller.*
-- *Light/Dark skin tone toggle for either swatch of each face.*
-- *Cute and simple GUI*
+- *All current dress to impress toy code faces in ONE script gui!*
+- *Light/Dark skin tone option for every face.*
+- *Cute and simple GUI.*
 
 
 ## Main Loadstring Script: (SCROLL DOWN FOR MORE INFO ON V2)
